@@ -78,4 +78,6 @@ When you run the program:
 
 ## **Future Enhancements**
 - Integrate YOLO for Advanced Object Detection
+
+  
 By integrating YOLO, the program can detect not just faces but also other objects like cars, animals, or household items. This makes the project more robust and versatile, suitable for applications like surveillance, retail analytics, or smart devices.
