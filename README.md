@@ -72,6 +72,8 @@ When you run the program:
 - A video feed from your webcam will appear.
 - Detected faces will be surrounded by green rectangles labeled with "Face Detected" (or your customized text).
 - The top-left corner will display "Press ESC to Exit" as an instruction.
+
+![Output Sample]([https://github.com/ManiMajd89/Image-Text-Extractor/blob/main/output%20sample.png](https://github.com/ManiMajd89/Face-Detection/blob/main/Face%20detection%20sample%20output.png))
 ---
 
 ## **Future Enhancements**
